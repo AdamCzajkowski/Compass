@@ -1,0 +1,1 @@
+C:\projects\Compass\buildSrc\build\classes\kotlin\main\Modules.class;C:\projects\Compass\buildSrc\build\classes\kotlin\main\Releases.class
